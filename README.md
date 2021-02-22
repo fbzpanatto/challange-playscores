@@ -34,6 +34,6 @@ $ cd frontend
 $ npm install
 
 ## Execute a aplicação
-$ npm serve
+$ npm run serve
 
 ### O frontend inciará na porta:8080 - acesse <http://localhost:8080> 
