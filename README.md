@@ -39,8 +39,8 @@ $ npm run serve
 ### O frontend inciará na porta:8080 - acesse <http://localhost:8080> 
 
 # Consumindo a API
-acesse http://localhost:8080/
-click em Spotify login
+<br>acesse http://localhost:8080/
+<br>click em Spotify login
 login in with Spotify
 escolha no select nome ou coordenada
 preencha o(s) input(s) de acordo com a selecao feita
