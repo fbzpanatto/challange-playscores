@@ -24,8 +24,6 @@ $ npm run dev
 
 # Iniciando o frontend
 
-## Clone este repositório
-
 ## Acesse a pasta do projeto no terminal/cmd
 $ cd challange-playscores
 
