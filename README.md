@@ -21,3 +21,21 @@ $ npm install
 $ npm run dev
 
 ## O servidor inciará na porta:8888 - acesse <http://localhost:8888> 
+
+# Iniciando o frontend
+
+## Clone este repositório
+
+## Acesse a pasta do projeto no terminal/cmd
+$ cd challange-playscores
+
+## Vá para a pasta server
+$ cd frontend
+
+## Instale as dependências
+$ npm install
+
+## Execute a aplicação
+$ npm serve
+
+## O frontend inciará na porta:8080 - acesse <http://localhost:8080> 
