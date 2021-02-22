@@ -20,7 +20,7 @@ $ npm install
 ## Execute a aplicação
 $ npm run dev
 
-# O servidor inciará na porta:8888 - acesse <http://localhost:8888> 
+### O servidor inciará na porta:8888 - acesse <http://localhost:8888> 
 
 # Iniciando o frontend
 
