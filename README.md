@@ -6,18 +6,18 @@ API responsavel por realizar uma busca no Open Wheater pela temperatura da uma c
 # Iniciando o backend
 
 ## Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+$ git clone <https://github.com/fbzpanatto/challange-playscores.git>
 
 ## Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
+$ cd challange-playscores
 
 ## Vá para a pasta server
-$ cd server
+$ cd backend
 
 ## Instale as dependências
 $ npm install
 
-## Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+## Execute a aplicação
+$ npm run dev
 
-## O servidor inciará na porta:3333 - acesse <http://localhost:3333> 
+## O servidor inciará na porta:8888 - acesse <http://localhost:8888> 
