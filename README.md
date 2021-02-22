@@ -39,10 +39,10 @@ $ npm run serve
 ### O frontend inciará na porta:8080 - acesse <http://localhost:8080> 
 
 # Consumindo a API
-<br>acesse http://localhost:8080/
-<br>click em Spotify login
-login in with Spotify
-escolha no select nome ou coordenada
-preencha o(s) input(s) de acordo com a selecao feita
-encontrar cidade
-se a busca for bem sucecida, clique em veja o que encontramos para voce hoje.
+1.acesse http://localhost:8080/
+<br>2.click em Spotify login
+<br>3.login in with Spotify
+<br>4.escolha no select nome ou coordenada
+<br>5.preencha o(s) input(s) de acordo com a selecao feita
+<br>6.encontrar cidade
+<br>7.se a busca for bem sucecida, clique em veja o que encontramos para voce hoje.
